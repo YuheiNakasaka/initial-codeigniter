@@ -190,7 +190,7 @@ if (defined('ENVIRONMENT'))
 	define('HOMEPATH',realpath(BASEPATH . "../../") . "/");
 
 	// Path to temporary folder
-        define('TEMPORARYPATH', HOMEPATH . "temporary/logs/");
+        define('TEMPORARYPATH', HOMEPATH . "temporary/");
 
 	// The path to the "application" folder
 	if (is_dir($application_folder))
