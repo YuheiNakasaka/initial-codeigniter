@@ -1,4 +1,4 @@
-configures
+Notes
 ===
 - DocumentRoot -> webroot
 - Rooting -> change default "http://host/index.php/controller/action/" to "http://host/controller/action/" with .htaccess in webroot
